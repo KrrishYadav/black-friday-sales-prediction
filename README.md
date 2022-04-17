@@ -21,6 +21,9 @@ We will follow all the steps of a Data Science lifecycle from data collection to
 
 ### Trained my Model using :
 Linear Regressor
+
 Random Forest Regressor
+
 Decision Tree Regressor
+
 XGBoost Regressor
