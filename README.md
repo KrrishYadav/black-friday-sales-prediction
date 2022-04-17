@@ -7,10 +7,15 @@ We will follow all the steps of a Data Science lifecycle from data collection to
 
 ### For Solving this Usecase, What I have done is :
 ● Collected the data and organized it to form a meaningful dataset.
+
 ● Checked for null values and took care of it.
+
 ● Observed the data to form meaningful insights!
+
 ● Did Exploratory Data Analysis on the dataset.
+
 ● Used correlations to form a heatmap.
+
 ● Visualizations were made by using Matplotlib and Seaborn Libraries..!!
 
 
